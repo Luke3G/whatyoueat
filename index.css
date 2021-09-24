@@ -1,14 +1,10 @@
 body{
     background-color: rgb(2, 78, 2);
 }
-header{
-    font-family: 'Abril Fatface';
-    text-align: center;
-    background-color: maroon;
-}
+
 *{
     color: wheat;
 }
-.johndoe{
-    text-align: right;
+.head{
+    background-color: rgb(129, 23, 4);
 }
